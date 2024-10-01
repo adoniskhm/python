@@ -1,0 +1,5 @@
+i = input("숫자를 입력하세요 : ")
+print(type(i))
+num = int(i)
+print(type(num))
+print(f"숫자 {i}을(를) 입력하셨습니다.")

@@ -2,7 +2,7 @@
 #     def meow(self):
 #         print("야옹~~")
 
-# Cat
+# Cat()
 
 class Korean :
     nation = "대한민국"
